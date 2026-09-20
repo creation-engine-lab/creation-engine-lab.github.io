@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>CEL</title>
+  <rect width="256" height="256" rx="58" fill="#0b0d12"/>
+  <g fill="#fff" transform="translate(-35.5 -34) scale(.31625)">
+    <path d="M354 350H269L190 429V595L269 674H354V606H288L258 576V448L288 418H354Z"/>
+    <path d="M415 350H607V418H483V478H585V546H483V606H607V674H415Z"/>
+    <path d="M668 350H736V606H858V674H668Z"/>
+  </g>
+</svg>
